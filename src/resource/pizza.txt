@@ -1,0 +1,4 @@
+Pizza;Pizza Margarita
+Glutenfrei;Large;230;1.7
+Käse;Bio;100;2.5
+Käse;Bio;100;2.5
